@@ -1,0 +1,153 @@
+{
+    "character": {
+        "name": "Beesya Mascot",
+        "species": "Anthropomorphic Bee",
+        "personality": [
+            "friendly",
+            "scientific",
+            "intelligent",
+            "trustworthy",
+            "approachable"
+        ]
+    },
+    "art_style": {
+        "primary_style": "Modern 3D mascot",
+        "secondary_style": "Clean vector-inspired illustration",
+        "render_style": "Soft Pixar-like without realism",
+        "complexity": "Minimal",
+        "target": "Premium mobile app branding"
+    },
+    "geometry": {
+        "head_ratio": "Very large (65% of total visible body)",
+        "body_ratio": "Small",
+        "eyes": "Oversized",
+        "nose": "Tiny oval",
+        "mouth": "Simple curved line",
+        "antenna": {
+            "count": 2,
+            "shape": "Rounded balls",
+            "thickness": "Medium"
+        },
+        "wings": {
+            "shape": "Simple translucent",
+            "opacity": 0.25,
+            "outline": "Very subtle"
+        }
+    },
+    "face": {
+        "expression_style": "Cute mascot",
+        "eyebrows": "Simple thick curves",
+        "eye_style": {
+            "shape": "Perfect circle",
+            "iris": "Dark brown",
+            "pupil": "Large black",
+            "highlight": "Large white glossy reflection"
+        },
+        "smile": {
+            "type": "Minimal curved line",
+            "thickness": "Medium"
+        }
+    },
+    "materials": {
+        "skin": {
+            "finish": "Ultra smooth matte",
+            "texture": "None",
+            "noise": "0%",
+            "imperfections": "None"
+        },
+        "glasses": {
+            "material": "Matte black plastic",
+            "reflection": "Soft"
+        },
+        "coat": {
+            "material": "Smooth cotton",
+            "wrinkles": "Minimal"
+        }
+    },
+    "lighting": {
+        "type": "Studio soft light",
+        "contrast": "Low",
+        "shadow": "Very soft",
+        "rim_light": "Subtle",
+        "ambient_occlusion": "Soft"
+    },
+    "color_palette": {
+        "yellow": "#F8C329",
+        "black": "#111111",
+        "white": "#FFFFFF",
+        "brown_eye": "#5B3318",
+        "wing": "#F8F5EF"
+    },
+    "rendering": {
+        "quality": "Ultra High",
+        "edges": "Clean",
+        "linework": "Almost none",
+        "surface": "Perfectly smooth",
+        "style": "Icon mascot"
+    },
+    "background": {
+        "color": "#FFFFFF",
+        "gradient": "Very subtle",
+        "elements": "None"
+    },
+    "camera": {
+        "lens": "85mm",
+        "perspective": "Orthographic feeling",
+        "distortion": "None",
+        "framing": "Centered"
+    },
+    "design_language": {
+        "keywords": [
+            "Apple",
+            "Notion",
+            "Linear",
+            "Duolingo mascot quality",
+            "Premium SaaS",
+            "Friendly AI assistant",
+            "Medical technology",
+            "Scientific but cute"
+        ]
+    },
+    "consistency_rules": [
+        "Always use identical head proportions",
+        "Always use identical glasses",
+        "Never change antenna style",
+        "Always keep wings semi-transparent",
+        "Never add fur",
+        "Never add skin texture",
+        "Never change eye proportions",
+        "Never exaggerate smile",
+        "Keep same yellow tone",
+        "Keep same body proportions",
+        "Maintain smooth surfaces",
+        "No painterly rendering",
+        "No realistic rendering"
+    ],
+    "negative_prompt": [
+        "realistic bee",
+        "furry",
+        "hair",
+        "feathers",
+        "rough texture",
+        "plastic toy",
+        "clay",
+        "oil painting",
+        "anime",
+        "comic",
+        "watercolor",
+        "cell shading",
+        "high contrast",
+        "dramatic shadows",
+        "photorealistic",
+        "hyper detailed skin",
+        "visible pores",
+        "fabric texture",
+        "wood texture",
+        "grain",
+        "noise",
+        "extra accessories",
+        "different glasses",
+        "different proportions",
+        "different eye shape"
+    ]
+}
